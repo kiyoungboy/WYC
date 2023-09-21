@@ -8,11 +8,11 @@
 
 3차 프로젝트 기간 : 20230823 ~ 20230831
 
-# [1.프로젝트 1. UI & Bigdata-프로젝트 파일](https://github.com/kiyoungboy/WYC/tree/main/1.project%20I%20(BigData%20UI))  
+<p># [1.프로젝트 1. UI & Bigdata-프로젝트 파일](https://github.com/kiyoungboy/WYC/tree/main/1.project%20I%20(BigData%20UI))  </p>
 
 # [2.프로젝트 2. JSP & Servlet-프로젝트 파일](https://github.com/kiyoungboy/WYC/tree/main/2.project%20II(jsp%20programming)) 
 
-# [3.프로젝트 3. Springframework-프로젝트 파일](https://github.com/kiyoungboy/WYC/tree/main/3.project%20III(sping%20framework)) 
+#  [3.프로젝트 3. Springframework-프로젝트 파일](https://github.com/kiyoungboy/WYC/tree/main/3.project%20III(sping%20framework)) 
 
 # [4.미니프로젝트. 10가지의 자바 미니 프로젝트(single linked list node 구현실습, 주소록 프로그램 실습 등)](https://github.com/kiyoungboy/WYC/tree/main/4.mini%20project) 
 
