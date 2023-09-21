@@ -6,15 +6,15 @@
 
 # [1.프로젝트 1. UI & Bigdata-프로젝트 파일](https://github.com/kiyoungboy/WYC/tree/main/1.project%20I%20(BigData%20UI))  
 
-# 2.프로젝트 2. JSP & Servlet-프로젝트 파일 
+# [2.프로젝트 2. JSP & Servlet-프로젝트 파일](https://github.com/kiyoungboy/WYC/tree/main/2.project%20II(jsp%20programming)) 
 
-# 3.프로젝트 3. Springframework-프로젝트 파일 
+# [3.프로젝트 3. Springframework-프로젝트 파일](https://github.com/kiyoungboy/WYC/tree/main/3.project%20III(sping%20framework)) 
 
-# 4.미니프로젝트. 10가지의 자바 미니 프로젝트(single linked list node 구현실습, 주소록 프로그램 실습 등) 
+# [4.미니프로젝트. 10가지의 자바 미니 프로젝트(single linked list node 구현실습, 주소록 프로그램 실습 등)](https://github.com/kiyoungboy/WYC/tree/main/4.mini%20project) 
 
-# 5.포트폴리오. 프로젝트 기획서, 요구사항 정의서&명세서, 개발 계획표, 화면 설계서, 빅데이터 분석 결과 보고서 
+# [5.포트폴리오. 프로젝트 기획서, 요구사항 정의서&명세서, 개발 계획표, 화면 설계서, 빅데이터 분석 결과 보고서](https://github.com/kiyoungboy/WYC/tree/main/5.portfolio) 
 
-# 6.etc. 해커튼 대회 참여 관련 자료 
+# [6.etc. 해커튼 대회 참여 관련 자료](https://github.com/kiyoungboy/WYC/tree/main/6.etc) 
 
-# 7.src. Spring project에서 사용한 실제 소스코드
+# [7.src. Spring project에서 사용한 실제 소스코드](https://github.com/kiyoungboy/WYC/tree/main/7.src) 
 
