@@ -20,5 +20,5 @@
 
 <h4><a href="https://github.com/kiyoungboy/WYC/tree/main/6.etc">#6.etc. 해커튼 대회 참여 관련 자료</a></h4> 
 
-<h4><a href="https://github.com/kiyoungboy/WYC/tree/main/7.src">#7.src. Spring project에서 사용한 실제 소스코드</a></h4> 
+<h4><a href="https://github.com/kiyoungboy/WYCproject/tree/master/WYC_Project">#7.src. Spring project에서 사용한 실제 소스코드</a></h4> 
 
